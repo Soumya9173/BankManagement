@@ -1,5 +1,5 @@
 import streamlit as st
-from hello import Bank
+from bank import Bank
 
 bank = Bank()
 
